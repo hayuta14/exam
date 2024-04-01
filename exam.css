@@ -65,10 +65,21 @@
     height: 45px;
     border: 1px solid black;
     border-radius: 5px;
-    margin: 0 auto;
+    margin: 15px auto;
 }
 .fa-solid{
     padding-right: 10px;
     margin-left: -60px;
     font-size: 20px;
+}
+.login__button {
+    padding: 10px 100px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: #42aeec;
+    cursor: pointer;
+    border: none;
+}
+.login__foot{
+    margin-top: 20px;
 }
